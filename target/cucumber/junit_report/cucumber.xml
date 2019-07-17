@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failed="0" tests="1">
+<testcase classname="FaceBook functionalities" name="Forgot password functionality exists" time="25993">
+<system-out><![CDATA[Given The browser is open..........................................................passed
+When Facebook is launched..........................................................passed
+And Click Forgot Password..........................................................passed
+Then Forgot Password Page should open....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
